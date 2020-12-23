@@ -76,6 +76,7 @@ module shifter_595(
 			q_tmp<={q_tmp[6:0], sdl};
 		
 	always@(posedge lck or negedge sclr)
+	// 锁存的功能
 		if(sclr==1'b0)
 			q_latch<=8'b00;
 		else
