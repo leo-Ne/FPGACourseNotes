@@ -46,9 +46,5 @@
 
 ### Verilog:
 
-![1609646976836](C:\Users\xiesh\AppData\Roaming\Typora\typora-user-images\1609646976836.png)
-
 ### Xdc:
-
-![1609647083690](C:\Users\xiesh\AppData\Roaming\Typora\typora-user-images\1609647083690.png)
 
